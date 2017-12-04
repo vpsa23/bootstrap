@@ -1,0 +1,35 @@
+/*RESETEANDO LA PAGINA*/
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+/*AQUI COMIENZAN MIS ESTILOS*/
+#theme{
+	margin-left: 2%;
+  margin-right: 2%;
+  margin-top: 2%;
+  border-radius: 10px;
+}
+
+hr{
+  width: 100%;
+}
+
+.row{
+  margin-top: 5%;
+}
+
+button{
+  margin-left: 0.5%;
+}
+
+.table1{
+  margin-top: 5%;
+}
+
+.table{
+  margin-left: 10%;
+  width: 470px;
+}
